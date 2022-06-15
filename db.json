@@ -1,0 +1,144 @@
+{
+  "Accounts": [
+    {
+      "id": 1,
+      "cccd": "197457702",
+      "sdt": "0379124695",
+      "maXacNhan": "YTKT01",
+      "ten": "Hoàng Thế Luân",
+      "anhXacThuc": "avt1.jpg",
+      "vaiTro": "Y Tá Kiểm Tra Sức Khoẻ",
+      "matKhau": "luantrum27",
+      "trangThai": false
+    },
+    {
+      "ten": "Lâm Xuân Thịnh",
+      "anhXacThuc": "av4.jpg",
+      "sdt": "0234785412",
+      "maXacNhan": "BST01",
+      "cccd": "197457701",
+      "vaiTro": "Bác Sĩ Tiêm Vaccine",
+      "matKhau": "123456",
+      "id": 2,
+      "trangThai": true
+    },
+    {
+      "ten": "Nguyễn Viết Việt",
+      "anhXacThuc": "avt3.jpg",
+      "sdt": "0234785412",
+      "maXacNhan": "BSKT01",
+      "cccd": "197457703",
+      "vaiTro": "Bác Sĩ Kiểm Tra Sức Khoẻ",
+      "matKhau": "123456",
+      "id": 3,
+      "trangThai": false
+    },
+    {
+      "ten": "Lâm Xuân Thịnh",
+      "anhXacThuc": "avt2.jpg",
+      "sdt": "0379124695",
+      "maXacNhan": "YT02",
+      "cccd": "0451245648",
+      "vaiTro": "Y Tá Kiểm Tra Sức Khoẻ",
+      "matKhau": "123456",
+      "id": 4
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "hoTen": "Trần Phương Diện",
+      "gioiTinh": "Nam",
+      "ngaySinh": "08/03/2003",
+      "queQuan": "Xã Gio Châu, huyện Gio Linh, tỉnh Quảng Trị",
+      "noiThuongTru": "Xã Gio Châu, huyện Gio Linh, tỉnh Quảng Trị",
+      "sdt": "0234785412",
+      "bhyt": "045215621321",
+      "email": "tranphuongdien2016@gmail.com",
+      "trangThai": false
+    },
+    {
+      "hoTen": "Hoàng Thế Luân",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "123465789",
+      "email": "luanht.21it@vku.udn.vn",
+      "sdt": "0379124695",
+      "ngaySinh": "27/06/2003",
+      "gioiTinh": "Nam",
+      "id": 2
+    },
+    {
+      "hoTen": "Trần Công Bình",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "",
+      "email": "",
+      "sdt": "01228585723",
+      "ngaySinh": "15/03/2003",
+      "gioiTinh": "Nam",
+      "id": 3,
+      "trangThai": false
+    },
+    {
+      "hoTen": "Lê Văn Duy",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "",
+      "email": "",
+      "sdt": "0379124695",
+      "ngaySinh": "01/10/2003",
+      "gioiTinh": "Nam",
+      "id": 4,
+      "trangThai": false
+    },
+    {
+      "hoTen": "Trương Quý Long",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "",
+      "email": "",
+      "sdt": "01228574521",
+      "ngaySinh": "27/02/2002",
+      "gioiTinh": "Nam",
+      "id": 5,
+      "trangThai": false
+    },
+    {
+      "hoTen": "Phạm Đỗ Mai Sương",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "",
+      "email": "",
+      "sdt": "0315426584",
+      "ngaySinh": "05/10/2003",
+      "gioiTinh": "Nữ",
+      "id": 6,
+      "trangThai": false
+    },
+    {
+      "hoTen": "Hoang The Luan",
+      "queQuan": "Thon Ha Thuong, Xa Gio Chau, Huyen Gio Linh, Tinh Quang Tri",
+      "noiThuongTru": "Thon Ha Thuong, Xa Gio Chau, Huyen Gio Linh, Tinh Quang Tri",
+      "bhyt": "",
+      "email": "hoangtheluan2021@gmail.com",
+      "sdt": "012345678",
+      "ngaySinh": "27/06/2003",
+      "gioiTinh": "Nam",
+      "id": 7,
+      "trangThai": false
+    },
+    {
+      "hoTen": "Nguyễn Viết Việt",
+      "queQuan": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "noiThuongTru": "Thôn Hà Thượng, Xã Gio Châu, Huyện Gio Linh, Tỉnh Quảng Trị",
+      "bhyt": "",
+      "email": "",
+      "sdt": "123465",
+      "ngaySinh": "27-01-2003",
+      "gioiTinh": "Nam",
+      "id": 8,
+      "trangThai": false
+    }
+  ]
+}

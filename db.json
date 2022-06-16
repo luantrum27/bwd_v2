@@ -9,7 +9,7 @@
       "anhXacThuc": "avt1.jpg",
       "vaiTro": "Y Tá Kiểm Tra Sức Khoẻ",
       "matKhau": "luantrum27",
-      "trangThai": false
+      "trangThai": true
     },
     {
       "ten": "Lâm Xuân Thịnh",
@@ -55,7 +55,7 @@
       "sdt": "0234785412",
       "bhyt": "045215621321",
       "email": "tranphuongdien2016@gmail.com",
-      "trangThai": false
+      "trangThai": true
     },
     {
       "hoTen": "Hoàng Thế Luân",
@@ -114,7 +114,7 @@
       "ngaySinh": "05/10/2003",
       "gioiTinh": "Nữ",
       "id": 6,
-      "trangThai": false
+      "trangThai": true
     },
     {
       "hoTen": "Hoang The Luan",
@@ -139,6 +139,17 @@
       "gioiTinh": "Nam",
       "id": 8,
       "trangThai": false
+    },
+    {
+      "hoTen": "Trần Văn Khang",
+      "queQuan": "Gio An",
+      "noiThuongTru": "Gio An",
+      "bhyt": "123456",
+      "email": "",
+      "sdt": "0379124695",
+      "ngaySinh": "01/01/2003",
+      "gioiTinh": "Nam",
+      "id": 9
     }
   ]
 }

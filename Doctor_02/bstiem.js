@@ -25,6 +25,7 @@ let no = document.querySelector('.no');
 no.onclick = function () {
     location.href = '../Doctor_02/index.html'
 }
+
 // ---------------------------------
 let menuToggle = document.querySelector('.toggle');
 let navigation = document.querySelector('.navigation')
